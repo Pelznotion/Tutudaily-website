@@ -216,11 +216,11 @@
 }
 .services__center1 {
   margin: 2rem auto;
-  width: 400px;
+  width: s00px;
 }
 .bus-quote {
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: #000072;
   margin-top: 10px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -231,7 +231,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    width: 800px;
+    width: 700px;
   }
   .bus-quote {
     flex: 0 0 calc(50% - 0.5rem);
